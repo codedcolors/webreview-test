@@ -42,5 +42,5 @@ deployments:
   webreview:
     destination: webreview
     server: googwebreview.appspot.com
-    project: elee/test
+    project: leeeric/elee-test
     name: elee-test
